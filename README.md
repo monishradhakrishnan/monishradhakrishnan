@@ -3,7 +3,7 @@
 # Hi, I'm Monish R 👋
 ### Biomedical Engineering Student | Problem Solver | Full-Stack Developer 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-monishr.me-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://monishr.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-monish-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://monishr.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-r-/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhakrishnanmonish@gmail.com)
 
@@ -56,11 +56,13 @@
 > Cross-platform document sharing app with access control and OTP-based auth
 
 - 📱 Built with **React Native + Expo** (Android, Web)
-- ⚙️ Backend: **Node.js + Express + MongoDB + GridFS**
-- 🔐 Features: Admin approval system, OTP password reset, email notifications, PDF sharing with expiry
+- ⚙️ Backend: **Node.js + Express + MongoDB**
+- 🔐 Features: Admin approval system, OTP password reset, email notifications, PDF sharing with expiry time
 - 🚀 Deployed on **Render.com** (backend) + **Vercel** (web)
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/monishradhakrishnan/pdf-share-frontend)
+
+[![Live](https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://pdf-share.monishr.me)
 
 
 ### 📚 The Software Engineer's Starter Bible
@@ -70,6 +72,9 @@
 - ⚙️ Built with **Vite + React**, hosted on **Vercel**
 
 [![Live](https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://sd.monishr.me)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/monishradhakrishnan/SWE-basics)
+
 
 ---
 
