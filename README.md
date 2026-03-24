@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Biomedical Engineering** student at **Bannari Amman INstitute of Technology, Erode**
+🎓 **Biomedical Engineering** student at **Bannari Amman Institute Of Technology, Erode**
 💡 Passionate about building full-stack apps that solve real problems
 📄 Also building **PDF Share** — a cross-platform document sharing app
 🌱 Always learning by doing — I iterate on real codebases and ship fast
@@ -55,12 +55,12 @@
 ### 📄 PDF Share
 > Cross-platform document sharing app with access control and OTP-based auth
 
-- 📱 Built with **React Native + Expo** (iOS, Android, Web)
+- 📱 Built with **React Native + Expo** (Android, Web)
 - ⚙️ Backend: **Node.js + Express + MongoDB + GridFS**
 - 🔐 Features: Admin approval system, OTP password reset, email notifications, PDF sharing with expiry
 - 🚀 Deployed on **Render.com** (backend) + **Vercel** (web)
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/your-username/pdf-share)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/monishradhakrishnan/pdf-share-frontend)
 
 
 ### 📚 The Software Engineer's Starter Bible
@@ -68,9 +68,8 @@
 
 - 🗺️ Covers: OOP, Data Structures, React Native, System Design, Career
 - ⚙️ Built with **Vite + React**, hosted on **Vercel**
-- 🌐 Live at [monishr.me](https://sd.monishr.me)
 
-[![Live](https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://monishr.me)
+[![Live](https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://sd.monishr.me)
 
 ---
 
@@ -78,11 +77,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monishradhakrishnan&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=monishradhakrishnan&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -90,7 +88,7 @@
 
 ## 🎓 Education
 
-🏫 **Bannari Amman INstitute of Technology**, Erode
+🏫 **Bannari Amman Institute Of Technology**, Erode
 📖 B.E. Biomedical Engineering
 📅 2023 – 2027
 
